@@ -4,9 +4,9 @@ title: Award
 sidebar_link: true
 ---
 
-<p class="message">
+<!-- <p class="message">
   获奖记录
-</p>
+</p> -->
 
 ⚫ 2nd Place Award in Human-Object Interaction Detection Challenge with ICCV 2019<br/>
 ⚫ 挑战杯全国大学生课外学术科技竞赛全国总决赛三等奖<br/>
