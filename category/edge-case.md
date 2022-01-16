@@ -12,23 +12,3 @@ GPA 3.15/4.0（专业排名前 3%）
 
 2018/07 至 2018/08 
 北京大学暑期学校 - ACM|ICPC 训练
-<!--
-```md
----
-layout: category
-title: My Category
----
-```
-
-Or ...
-
-```md
----
-layout: category
-title: Fancy Title
-category: My Category
----
-```
-
-Posts get listed below here.
--->
