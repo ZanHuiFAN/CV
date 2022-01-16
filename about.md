@@ -8,8 +8,8 @@ sidebar_link: true
   获奖记录
 </p>
 
-⚫ 2nd Place Award in Human-Object Interaction Detection Challenge with ICCV 2019
-⚫ 挑战杯全国大学生课外学术科技竞赛全国总决赛三等奖
+⚫ 2nd Place Award in Human-Object Interaction Detection Challenge with ICCV 2019<br/>
+⚫ 挑战杯全国大学生课外学术科技竞赛全国总决赛三等奖<br/>
 ⚫ 第三届全国集成电路创新创业大赛全国总决赛三等奖
 ⚫ 第十届蓝桥杯全国程序设计竞赛 C/C++组全国总决赛优秀奖
 ⚫ 第九届蓝桥杯全国程序设计竞赛 C/C++组全国总决赛优秀奖
