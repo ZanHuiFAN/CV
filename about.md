@@ -5,8 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  获奖记录
 </p>
 
 ⚫ 2nd Place Award in Human-Object Interaction Detection Challenge with ICCV 2019
