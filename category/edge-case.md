@@ -1,11 +1,15 @@
 ---
 layout: category
-title: Edge Case
+title: Education
 ---
 
-Sample category page. You need to create a page for each category.
-The category is inferred from the title of the page, but you can also
-specify it with the `category` attribute in the front matter.
+2021/02 至 2022/12 悉尼新南威尔士大学 UNSW -微电子硕士在读
+
+2016/09 至 2020/06 大连东软信息学院
+集成电路设计与集成系统 GPA 3.15/4.0（专业排名前 3%）
+
+2018/07 至 2018/08 北京大学暑期学校
+ACM|ICPC 训练 80/100
 
 ```md
 ---
